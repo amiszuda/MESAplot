@@ -3,7 +3,7 @@ MESAstar / binary plotting tool
 
 **MESA-plotter**
 ```
-    plot opt[u x:y] [lc[x,y]]
+    python MESAplot.py opt[u x:y] [lc[x,y]]
 
         lc                   filename of your light curve containing at least 2 columns  
                              You can pass as many files to plot as you wish
